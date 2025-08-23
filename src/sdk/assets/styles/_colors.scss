@@ -1,0 +1,8 @@
+@use 'variables/colors';
+
+body {
+  --theme-transparent: #{colors.$transparent};
+  --theme-black: #{colors.$black};
+  --theme-white: #{colors.$white};
+  --theme-background-gradient: #{colors.$background-gradient};
+}
