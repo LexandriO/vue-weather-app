@@ -1,0 +1,102 @@
+{
+  "currentCity": "Казань",
+  "currentDate": "2025-08-25",
+  "currentWeather": {
+    "temperature": 34,
+    "condition": "Облачно",
+    "humidity": "85%",
+    "wind": "1 м/с",
+    "icon": "cloudy"
+  },
+  "hourlyForecast": [
+    {
+      "time": "00:00",
+      "label": "Ночь",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    },
+    {
+      "time": "03:00",
+      "label": "Ночь",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    },
+    {
+      "time": "06:00",
+      "label": "Утро",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    },
+    {
+      "time": "09:00",
+      "label": "Утро",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    },
+    {
+      "time": "12:00",
+      "label": "День",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    },
+    {
+      "time": "15:00",
+      "label": "День",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    },
+    {
+      "time": "18:00",
+      "label": "Вечер",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    },
+    {
+      "time": "21:00",
+      "label": "Вечер",
+      "temperature": 34,
+      "condition": "Облачно",
+      "icon": "cloudy",
+      "humidity": "85%",
+      "wind": "1 м/с"
+    }
+  ],
+  "weeklyForecast": [
+    { "day": "Понедельник", "temperature": 35, "condition": "Облачно", "icon": "cloudy" },
+    { "day": "Вторник", "temperature": 35, "condition": "Солнечно", "icon": "sunny" },
+    { "day": "Среда", "temperature": 35, "condition": "Ветрено", "icon": "windy" },
+    { "day": "Четверг", "temperature": 35, "condition": "Облачно", "icon": "cloudy" },
+    { "day": "Пятница", "temperature": 35, "condition": "Солнечно", "icon": "sunny" },
+    { "day": "Суббота", "temperature": 35, "condition": "Солнечно", "icon": "sunny" },
+    { "day": "Воскресенье", "temperature": 35, "condition": "Солнечно", "icon": "sunny" }
+  ],
+  "popularCities": [
+    { "city": "Москва", "temperature": 34, "condition": "Облачно", "humidity": "80%", "icon": "cloudy" },
+    { "city": "Новосибирск", "temperature": 34, "condition": "Солнечно", "humidity": "80%", "icon": "sunny" },
+    { "city": "Краснодар", "temperature": 34, "condition": "Ветрено", "humidity": "80%", "icon": "windy" },
+    { "city": "Красноярск", "temperature": 34, "condition": "Ветрено", "humidity": "80%", "icon": "windy" },
+    { "city": "Тула", "temperature": 34, "condition": "Облачно", "humidity": "80%", "icon": "cloudy" }
+  ],
+  "availableCities": ["Казань", "Краснодар", "Уфа", "Новосибирск", "Красноярск", "Москва", "Тула"]
+}
