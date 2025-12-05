@@ -15,7 +15,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <h1>Погода в городе {{ weatherData?.currentCity }}</h1>
+  <h1>Погода в городе: {{ weatherData?.currentCity }}</h1>
 
   <div
     class="main-page__weather-cards hide-scrollbar"
